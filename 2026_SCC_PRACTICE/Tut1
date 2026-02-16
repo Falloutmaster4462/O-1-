@@ -1,0 +1,8 @@
+# Tutorial 1
+The base to any system is it's OS. As you saw in the Linux-basics doc we provided you guys, Linux is made up of many flavours.
+For this tutorial, you and your team will each need to learn and then demonstrate how to set up a Virtual Machine(VM)
+
+__Tasks:__
+1. Download the iso file of your choice of Linux flavour (Make sure it is the terminal only version)
+2. Install the OS on your VM created in VirtualBox
+3. Install and run the fastfetch package and then take a screen shot of what your VMs display looks like
